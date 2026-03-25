@@ -1,0 +1,5 @@
+{
+  "name": "GereCom Mobile",
+  "description": "Sistema mobile de gerenciamento de equipes de comunicação institucional, planejamento de secretarias e gestão de equipe operacional.",
+  "requestFramePermissions": ["geolocation"]
+}
